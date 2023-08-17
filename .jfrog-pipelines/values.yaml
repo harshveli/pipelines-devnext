@@ -4,6 +4,6 @@ var:
   gitProvider: testintregration
   path: harshveli/pipelines-devnext
   branches: main
-  artifactory: hk_artifactory_1
+  artifactory: myart
   dockerRepoName: cpe-docker-local-devnext
   jfrogPlatformInstance: devnextsaas1.jfrog.io
